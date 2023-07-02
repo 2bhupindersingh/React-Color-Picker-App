@@ -1,0 +1,22 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+.color-picker-form {
+  display: flex;
+}
+.color-list {
+  width: 100%;
+  max-width: 20%;
+}
+.single-color {
+  width: 100%;
+  max-width: 20%;
+  padding: 30px;
+}
+.single-color.color-light {
+  color: #fff;
+}
+.pick-color label {
+  white-space: nowrap;
+  margin-bottom: 0;
+}
